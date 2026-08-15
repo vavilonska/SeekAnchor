@@ -1,0 +1,14 @@
+# Project-local runtime state
+.pi/deepseek-rl-anchor/
+
+# Developer outputs
+logs/
+artifacts/
+coverage/
+node_modules/
+.opencode/node_modules/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.log

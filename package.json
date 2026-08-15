@@ -1,0 +1,16 @@
+{
+  "name": "seek-anchor",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test developer/tests/*.test.mjs",
+    "test:global-install": "pwsh -NoProfile -File developer/tests/global-install-smoke.ps1",
+    "test:omp-global-install": "pwsh -NoProfile -File developer/tests/omp-global-install-smoke.ps1",
+    "typecheck:opencode": "tsc --noEmit -p developer/tsconfig.opencode.json"
+  },
+  "devDependencies": {
+    "@types/node": "24.12.4",
+    "typescript": "5.9.3"
+  }
+}
