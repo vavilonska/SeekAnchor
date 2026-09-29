@@ -409,4 +409,4 @@ tool set—was an important inspiration for SeekAnchor's Anchor mode.
 
 ## Related projects / 相关项目
 
-[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska#projects--项目)
+[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska?tab=repositories)
