@@ -373,4 +373,4 @@ SeekAnchor 使用 [MIT License](LICENSE)，版权所有 © 2026 vavilonska7。�
 
 ## Related projects / 相关项目
 
-[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska#projects--项目)
+[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska?tab=repositories)
