@@ -1,5 +1,11 @@
 # SeekAnchor
 
+[Pi 安装](#pi-安装与使用) · [OMP 安装](#oh-my-pi-安装与使用) · [OpenCode 安装](#opencode-v2-安装与使用)
+
+![SeekAnchor — Anchor 模式流程示意](docs/assets/overview.svg)
+
+> 图示为 Anchor 模式。项目仍为实验性质，不保证任务成功率或输出质量提升。
+
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 SeekAnchor 用于将 DeepSeek V4 Pro 引导到 DSH Minimal agent trajectory，目标是让
@@ -364,3 +370,7 @@ SeekAnchor 使用 [MIT License](LICENSE)，版权所有 © 2026 vavilonska7。�
 - [Oh My Pi 扩展加载](https://github.com/can1357/oh-my-pi/blob/main/docs/extension-loading.md)
 - [OpenCode V2 Plugins](https://opencode.ai/v2/docs/build/plugins)
 - [OpenCode V1 迁移到 V2](https://opencode.ai/v2/docs/migrate-v1)
+
+## Related projects / 相关项目
+
+[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska#projects--项目)

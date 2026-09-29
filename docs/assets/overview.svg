@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<title id="title">SeekAnchor workflow / 功能流程</title>
+<desc id="desc">Conceptual workflow diagram, not an application screenshot. / 功能示意图，非运行截图。</desc>
+<rect width="1200" height="220" rx="18" fill="#101923"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif">
+<text x="28" y="30" font-size="13" fill="#96a7bb" letter-spacing="2">WORKFLOW / 功能流程示意</text>
+<rect x="28" y="48" width="360" height="144" rx="12" fill="#172535" stroke="#2b3c50"/>
+<text x="48" y="83" font-size="15" font-weight="700" fill="#93c5fd">01 / BOOTSTRAP</text>
+<text x="48" y="123" font-size="19" fill="#f3f6fb">Start with Minimal tools</text>
+<text x="48" y="156" font-size="17" fill="#acbbce">从 Minimal 工具集开始</text>
+<path d="M395 118h18m-6-6 6 6-6 6" fill="none" stroke="#93c5fd" stroke-width="2"/>
+<rect x="420" y="48" width="360" height="144" rx="12" fill="#172535" stroke="#2b3c50"/>
+<text x="440" y="83" font-size="15" font-weight="700" fill="#93c5fd">02 / ANCHOR</text>
+<text x="440" y="123" font-size="19" fill="#f3f6fb">Complete the first tool call</text>
+<text x="440" y="156" font-size="17" fill="#acbbce">完成首次工具调用</text>
+<path d="M787 118h18m-6-6 6 6-6 6" fill="none" stroke="#93c5fd" stroke-width="2"/>
+<rect x="812" y="48" width="360" height="144" rx="12" fill="#172535" stroke="#2b3c50"/>
+<text x="832" y="83" font-size="15" font-weight="700" fill="#93c5fd">03 / RESTORE</text>
+<text x="832" y="123" font-size="19" fill="#f3f6fb">Restore host tools in Anchor</text>
+<text x="832" y="156" font-size="17" fill="#acbbce">Anchor 模式恢复宿主工具</text>
+</g></svg>

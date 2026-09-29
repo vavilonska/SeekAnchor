@@ -1,5 +1,11 @@
 # SeekAnchor
 
+[Pi setup](#pi-installation-and-usage) · [Oh My Pi setup](#oh-my-pi-installation-and-usage) · [OpenCode setup](#opencode-v2-installation-and-usage) · [中文](README.zh-CN.md)
+
+![SeekAnchor — Anchor mode workflow / Anchor 模式流程](docs/assets/overview.svg)
+
+> Anchor-mode diagram; experimental, with no guaranteed quality gain. / 图示为 Anchor 模式，不保证能力提升。
+
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 SeekAnchor steers DeepSeek V4 Pro toward the DSH Minimal agent trajectory. It
@@ -400,3 +406,7 @@ tool set—was an important inspiration for SeekAnchor's Anchor mode.
 - [Oh My Pi Extension Loading](https://github.com/can1357/oh-my-pi/blob/main/docs/extension-loading.md)
 - [OpenCode V2 Plugins](https://opencode.ai/v2/docs/build/plugins)
 - [Migrating OpenCode V1 to V2](https://opencode.ai/v2/docs/migrate-v1)
+
+## Related projects / 相关项目
+
+[OMPmail](https://github.com/vavilonska/OMPmail) · [OMP Pet](https://github.com/vavilonska/omp-pet) · [All projects / 全部项目](https://github.com/vavilonska#projects--项目)
