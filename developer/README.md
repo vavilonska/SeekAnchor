@@ -14,6 +14,17 @@ The supplied ZIP did not include the tests, docs, vendor snapshot, package
 manifest or benchmark artifacts described by its README. Do not interpret the
 reference implementation's reported test count as independently verified.
 
+Install the committed developer and OpenCode dependency trees before running checks:
+
+```powershell
+npm ci
+npm ci --prefix .opencode
+```
+
+The OpenCode lockfile keeps `brace-expansion` on the patched `2.1.7` release
+within `minimatch`'s existing `^2.0.2` constraint, without changing the pinned
+plugin API. Use the committed lockfile to reproduce this transitive security fix.
+
 Repository-level developer checks are in `developer/tests/` and can be run
 with `npm test`. They import the runtime modules but are never loaded by Pi.
 The OpenCode adapter is type-checked separately with
